@@ -9,7 +9,7 @@ function App() {
           <h1>Matthew Randle</h1>
         </header>
         <p>
-          <a href="/download/MRandleCV.pdf" download>
+          <a href="/downloads/MRandleCV.pdf" download>
             Download my CV!
           </a>
         </p>
